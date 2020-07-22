@@ -3,7 +3,7 @@
 
 **Description:**
 Do you want to relax? Then this simple app will help you. Just listen to relaxing sounds, think about something pleasant and get ready for sleep. This all can be done with this app!
-### [LIVE](https://vladyslav-vasylenko.github.io/Meditation/)
+### [LIVE](https://vladyslav.github.io/Meditation/)
 **Technologies used:**
  - HTML
  - CSS
